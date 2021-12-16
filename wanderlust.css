@@ -1,0 +1,88 @@
+#nav-bar{
+    position:sticky;
+    top: 5;
+}
+.carousel-caption h5{
+    color:darkslategray ;
+    
+    font-size: 42px;
+}
+.carousel-caption{
+
+    top: 50%;
+}
+.card
+{
+    margin-top: 5%;
+    margin-left: 5%;
+    
+
+    
+}
+.cardimg{
+    height: 300px;
+}
+.color{
+    background-color:darkgrey;
+}
+.card2{
+margin-left: 35%;
+margin-top: -44%;
+height: 611px;
+
+}
+.card3{
+    margin-left: 68%;
+    margin-top: -42%;
+    height: 200px;
+}
+.text{
+    padding-top: 38px;
+    text-align: center;
+    font-size: 50px;
+    color: darkslategray;
+    margin-top: 0%;
+}
+.card1{
+   
+    height: 617px;
+    }
+   .font{
+       font-size: 20px;
+   }
+   .background{
+    background-image: url("./image/london.jpg");
+    background-color: #cccccc;
+   }
+   .form{
+    border: 2px solid dimgray;
+    border-radius: 4px
+    
+
+  }
+  .form1{
+      text-align: center;
+      margin-top: 2%;
+  }
+  .input3{
+      margin-left: 2px solid red;
+      border-radius: 4px;
+  }
+  .bg{
+      background-color: lightyellow;
+  }
+  .spacing{
+      padding:  3%;
+      margin-left: 6%;
+      
+  }
+  .copyright{
+      font-weight:initial;
+      padding-bottom:  5%;
+      margin-left: 55%;
+      margin-top: -5%;
+  }
+  #slider{
+      padding-top: 0px;
+  }
+ 
